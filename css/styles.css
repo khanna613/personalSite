@@ -1,0 +1,165 @@
+.top {
+  background-color: #fff0f0;
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle {
+  background-color: #ebd4d4;
+  margin: 0 auto 0 auto;
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.bottom {
+  background-color: #835858;
+  margin: 0 auto 0 auto;
+  border-top: 0;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+
+
+}
+
+.ss{
+width:80%;
+height:200px;
+padding-bottom: 50px;
+
+margin: 100px auto 200px auto;
+
+
+}
+
+a.skill-row{
+color:Black;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Leckerli One', cursive;
+  font-size: 60px;
+  color: #835858;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.botcl {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topcl {
+  position: absolute;
+  right: 350px;
+  top: 40px;
+}
+
+a {
+  color: #fff0f0;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+h2, h3,h4 {
+  color: #835858;
+}
+
+
+.me{
+  margin-top: 100px;
+  border-radius: 50%;
+}
+
+p{
+  color: #40514e;
+  margin: 0;
+  line-height: 1.5;
+
+}
+
+.si{
+  float: left;
+  margin-right: 30px;
+}
+
+.ci{
+  float: right;
+margin: auto auto 10px 10px;
+}
+
+.ds,.ns{
+  float:left;
+  margin-right: 30px;
+  padding-bottom: 10px;
+  -webkit-transform:rotate(15deg);
+  -moz-transform: rotate(15deg);
+  -ms-transform: rotate(15deg);
+  -o-transform: rotate(15deg);
+  transform: rotate(15deg);
+}
+.js,.tds{
+  float: right;
+margin: auto auto 10px 10px;
+padding-bottom: 10px;
+-webkit-transform:rotate(-15deg);
+-moz-transform: rotate(-15deg);
+-ms-transform: rotate(-15deg);
+-o-transform: rotate(-15deg);
+transform: rotate(-15deg);
+}
+
+.bttn2{
+  background-color: #fff0f0;
+  border: none;
+  color: #835858;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 2%
+}
+
+.bttn {
+  background-color: #fff0f0;
+  border: none;
+  color: #835858;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.bttn:hover{
+  background-color: #fcdada;
+}
+
+a:hover{
+  color: #fcdada;
+}
